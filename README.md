@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cnzakimuena/"><img width="30" src="./content/linkedin_logo.svg"/></a> &nbsp;
-  <a href="https://www.kaggle.com/cnzakimuena"><img width="30" src="./content/kaggle_logo.svg"/></a> &nbsp;
-  <a href="https://leetcode.com/u/cnzakimuena/"><img width="30" src="./content/leetcode_logo.svg"/></a>
+  <a href="https://www.linkedin.com/in/cnzakimuena/"><img width="40" src="./content/linkedin_logo.svg"/></a> &nbsp;
+  <a href="https://www.kaggle.com/cnzakimuena"><img width="40" src="./content/kaggle_logo.svg"/></a> &nbsp;
+  <a href="https://leetcode.com/u/cnzakimuena/"><img width="40" src="./content/leetcode_logo.svg"/></a>
 </p>
