@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img width="270" src="./content/waterfall-animated.gif">
+  <img width="260" src="./content/waterfall-animated.gif">
 </p>
 
 <br>
