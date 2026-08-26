@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  <samp> Hi, I'm Charles, an engineer from Canada. I have experience and I am interested in digital signal processing, computer vision and applied artificial intelligence. 
+  <samp> Hi, I'm Charles, an engineer from Canada. I have experience and I'm interested in digital signal processing, computer vision and applied artificial intelligence. 
   </samp>
 </h3>
 
