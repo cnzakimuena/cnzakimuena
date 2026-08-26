@@ -4,11 +4,13 @@
   </samp>
 </h3>
 
+<!--
 <br>
 
 <p align="center">
-  <img width="260" src="./content/waterfall-animated.gif">
+  <img width="260" src="./content/placeholder.gif">
 </p>
+-->
 
 <br>
 
