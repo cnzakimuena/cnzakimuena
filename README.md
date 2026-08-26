@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img width="260" src="./content/waterfall-animated.gif">
+  <a href="https://www.deviantart.com/calvrp/art/M-C-Escher-Waterfall-173976491"><img width="260" src="./content/waterfall-animated.gif">
 </p>
 
 <br>
@@ -17,3 +17,7 @@
   <a href="https://www.kaggle.com/cnzakimuena"><img width="30" src="./content/kaggle_logo.svg"/></a> &nbsp;
   <a href="https://leetcode.com/u/cnzakimuena/"><img width="30" src="./content/leetcode_logo.svg"/></a>
 </p>
+
+
+
+https://www.deviantart.com/calvrp/art/M-C-Escher-Waterfall-173976491
