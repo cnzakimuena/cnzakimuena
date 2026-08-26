@@ -1,13 +1,13 @@
 
 <h3 align="center"><samp> Hi, I'm Charles, an engineer from Canada. I have experience and I am interested in digital signal processing, computer vision and applied artificial intelligence. </samp></h3>
 
-<br><br>
+<br>
 
 <p align="center">
   <img width="300" src="./content/waterfall-animated.gif">
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
 <a href= "https://www.linkedin.com/in/cnzakimuena/"><img width="60" src="./content/linkedin_logo.svg"/></a>
