@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.deviantart.com/calvrp/art/M-C-Escher-Waterfall-173976491"><img width="260" src="./content/waterfall-animated.gif"></a>
+  <img width="260" src="./content/waterfall-animated.gif">
 </p>
 
 <br>
