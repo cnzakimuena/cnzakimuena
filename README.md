@@ -4,13 +4,13 @@
 <br>
 
 <p align="center">
-  <img width="300" src="./content/waterfall-animated.gif">
+  <img width="270" src="./content/waterfall-animated.gif">
 </p>
 
 <br>
 
 <p align="center">
-<a href= "https://www.linkedin.com/in/cnzakimuena/"><img width="60" src="./content/linkedin_logo.svg"/></a>
-<a href= "https://www.kaggle.com/cnzakimuena"><img width="60" src="./content/kaggle_logo.svg"/></a>
-<a href= "https://leetcode.com/u/cnzakimuena/"><img width="60" src="./content/leetcode_logo.svg"/></a>
+<a href= "https://www.linkedin.com/in/cnzakimuena/"><img width="50" src="./content/linkedin_logo.svg"/></a>
+<a href= "https://www.kaggle.com/cnzakimuena"><img width="50" src="./content/kaggle_logo.svg"/></a>
+<a href= "https://leetcode.com/u/cnzakimuena/"><img width="50" src="./content/leetcode_logo.svg"/></a>
 </p>
