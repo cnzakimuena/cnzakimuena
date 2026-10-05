@@ -26,5 +26,5 @@
   <a href="https://numpy.org/"><img width="35" src="./content/numpy_logo.svg"/></a> &nbsp;  
   <a href="https://scipy.org/"><img width="35" src="./content/scipy_logo.svg"/></a> &nbsp;
   <a href="https://pandas.pydata.org/"><img width="35" src="./content/pandas_logo.svg"/></a> &nbsp;
-  <a href="https://matplotlib.org/"><img width="35" src="./content/matplotlib_logo.svg"/></a> &nbsp;
+  <a href="https://matplotlib.org/"><img width="35" src="./content/matplotlib_logo.svg"/></a>
 </div>
