@@ -4,14 +4,6 @@
   </samp>
 </h3>
 
-<!--
-<br>
-
-<p align="center">
-  <img width="260" src="./content/placeholder.gif">
-</p>
--->
-
 <br>
 
 <div align="center">
