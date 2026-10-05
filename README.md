@@ -24,13 +24,12 @@
 <br>
 
 <div align="center">
-  <img width="35" src="./content/python_logo.svg"/> &nbsp;
-  <img width="35" src="./content/R_logo.svg"/> &nbsp;
-  <img width="35" src="./content/pytorch_logo.svg"/> &nbsp;
-  <img width="35" src="./content/scikit-learn_logo.svg"/> &nbsp;
-  <img width="35" src="./content/pandas_logo.svg"/> &nbsp;
-  <img width="35" src="./content/open-cv_logo.svg"/> &nbsp;
-  <img width="35" src="./content/scipy_logo.svg"/> &nbsp;
-  <img width="35" src="./content/langgraph_logo.svg"/> &nbsp;
-  <img width="35" src="./content/langchain_logo.svg"/>
+  <a href="https://www.python.org/"><img width="35" src="./content/python_logo.svg"/></a> &nbsp;
+  <a href="https://www.r-project.org/"><img width="35" src="./content/R_logo.svg"/></a> &nbsp;
+  <a href="https://pytorch.org/"><img width="35" src="./content/pytorch_logo.svg"/></a> &nbsp;
+  <a href="https://scikit-learn.org/"><img width="35" src="./content/scikit-learn_logo.svg"/></a> &nbsp;
+  <a href="https://pandas.pydata.org/"><img width="35" src="./content/pandas_logo.svg"/></a> &nbsp;
+  <a href="https://opencv.org/"><img width="35" src="./content/open-cv_logo.svg"/></a> &nbsp;
+  <a href="https://scipy.org/"><img width="35" src="./content/scipy_logo.svg"/></a> &nbsp;
+  <a href="https://www.langchain.com/"><img width="35" src="./content/langchain_logo.svg"/>
 </div>
