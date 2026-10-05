@@ -16,9 +16,7 @@
 <br>
 
 <div align="center">
-  <!-- languages -->
   <a href="https://www.python.org/"><img width="35" src="./content/python_logo.svg"/></a> &nbsp;
-  <a href="https://www.r-project.org/"><img width="35" src="./content/R_logo.svg"/></a> &nbsp;
   <!-- artificial intelligence -->
   <a href="https://pytorch.org/"><img width="35" src="./content/pytorch_logo.svg"/></a> &nbsp;
   <a href="https://scikit-learn.org/"><img width="35" src="./content/scikit-learn_logo.svg"/></a> &nbsp;
@@ -29,5 +27,4 @@
   <a href="https://scipy.org/"><img width="35" src="./content/scipy_logo.svg"/></a> &nbsp;
   <a href="https://pandas.pydata.org/"><img width="35" src="./content/pandas_logo.svg"/></a> &nbsp;
   <a href="https://matplotlib.org/"><img width="35" src="./content/matplotlib_logo.svg"/></a> &nbsp;
-  <a href="https://seaborn.pydata.org/"><img width="35" src="./content/seaborn_logo.svg"/></a>
 </div>
