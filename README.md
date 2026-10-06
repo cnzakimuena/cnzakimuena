@@ -16,8 +16,6 @@
   </div>
 </details>
 
-<br>
-
 <details open>
   <summary align="center" style="cursor: pointer;">
     <h3 style="display: inline;"><samp><u>technologies</u></samp></h3>
