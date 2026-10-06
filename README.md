@@ -4,7 +4,7 @@
   </samp>
 </h3>
 
-<details open>
+<details>
   <summary align="center" style="cursor: pointer;">
     <h3 style="display: inline;"><samp><ins>links</ins></samp></h3>
   </summary>
@@ -16,7 +16,7 @@
   </div>
 </details>
 
-<details open>
+<details>
   <summary align="center" style="cursor: pointer;">
     <h3 style="display: inline;"><samp><ins>technologies</ins></samp></h3>
   </summary>
