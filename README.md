@@ -6,9 +6,9 @@
 
 <details open>
   <summary align="center" style="cursor: pointer;">
-    <h3 style="display: inline;"><samp><u>links</u></samp></h3>
+    <h3 style="display: inline;"><samp><ins>links</ins></samp></h3>
   </summary>
-  <br>
+  <!-- <br>  -->
   <div align="center">
     <a href="https://www.linkedin.com/in/cnzakimuena/"><img width="35" src="./content/linkedin_logo.svg"/></a> &nbsp;
     <a href="https://www.kaggle.com/cnzakimuena"><img width="35" src="./content/kaggle_logo.svg"/></a> &nbsp;
@@ -18,9 +18,9 @@
 
 <details open>
   <summary align="center" style="cursor: pointer;">
-    <h3 style="display: inline;"><samp><u>technologies</u></samp></h3>
+    <h3 style="display: inline;"><samp><ins>technologies</ins></samp></h3>
   </summary>
-  <br>
+  <!-- <br>  -->
   <div align="center">
     <a href="https://www.python.org/"><img width="35" src="./content/python_logo.svg"/></a> &nbsp;
     <!-- artificial intelligence -->
