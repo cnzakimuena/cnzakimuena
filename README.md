@@ -4,8 +4,6 @@
   </samp>
 </h3>
 
-<br>
-
 <details open>
   <summary align="center" style="cursor: pointer;">
     <h3 style="display: inline;"><samp><u>links</u></samp></h3>
@@ -18,7 +16,6 @@
   </div>
 </details>
 
-<br>
 <br>
 
 <details open>
