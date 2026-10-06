@@ -4,6 +4,8 @@
   </samp>
 </h3>
 
+<br>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/cnzakimuena/"><img width="35" src="./content/linkedin_logo.svg"/></a> &nbsp;
   <a href="https://www.kaggle.com/cnzakimuena"><img width="35" src="./content/kaggle_logo.svg"/></a> &nbsp;
